@@ -1,0 +1,2 @@
+﻿symbol,entry_version,entry_time,exit_time,entry_price,entry_cost_after_fee,exit_price,exit_net_after_fee_tax,sold_shares_norm,exit_size_pct_of_initial,net_return_pct,net_pnl_norm,bars_held,exit_reason
+2317.TW,strong,2023-05-05,2023-05-12,94.23444366455078,94.36872774677276,93.24081478742427,92.82822418198991,0.010596730758979616,1.0,-0.016324301509252237,-0.016324301509252202,6,stop_loss
