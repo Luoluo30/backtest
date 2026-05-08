@@ -1,0 +1,2 @@
+﻿symbol,entry_version,entry_time,exit_time,entry_price,entry_cost_after_fee,exit_price,exit_net_after_fee_tax,sold_shares_norm,exit_size_pct_of_initial,net_return_pct,net_pnl_norm,bars_held,exit_reason
+0050.TW,strong,2024-11-12,2024-11-27,47.13266766982059,47.199831721250085,45.50799744562183,45.30662455692495,0.02118651621272168,1.0,-0.04011046428101528,-0.04011046428101527,12,stop_loss
